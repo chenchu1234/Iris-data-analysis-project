@@ -76,8 +76,3 @@ Species are linearly separable based on petal length and petal width.
 Setosa is the most distinguishable species.
 
 Sepal measurements show some overlap between Versicolor and Virginica.
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to fork this repository and submit a pull request.
